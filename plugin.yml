@@ -1,0 +1,10 @@
+name: ElytraBan
+version: 1.0.0
+main: ua.elytraban.ElytraBan
+# постав свою версію сервера
+api-version: "26.3"
+description: Забороняє одягати та використовувати елітри
+permissions:
+  elytraban.bypass:
+    description: Дозволяє користуватися елітрами
+    default: op
